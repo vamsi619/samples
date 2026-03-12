@@ -30,3 +30,5 @@ In this folder we will provide Jupyter Notebook examples on how to get started w
 |---------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | D1      | [AWS Lambda Deployment](03-deployment/01-lambda-deployment)       | Deploying your agent to an AWS Lambda Function                                                  |
 | D2      | [AWS Fargate Deployment](03-deployment/02-fargate-deployment)     | Deploying your agent to AWS Fargate                                                             |
+| D3      | [Amazon Bedrock AgentCore Deployment](03-deployment/03-agentcore-deployment)     | Deploying your agent to Amazon Bedrock AgentCore Fargate                                                             |
+| D4      | [AWS App Runner Deployment](03-deployment/04-apprunner-deployment)     | Deploying your agent to AWS App Runner                                                             |
